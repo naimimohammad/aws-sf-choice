@@ -1,6 +1,6 @@
 {
   "name": "aws-sf-choice",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "parse aws step function choice",
   "main": "lib/index.js",
   "scripts": {

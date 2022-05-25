@@ -26,7 +26,6 @@ The following comparison operators are supported:
 - StringGreaterThanEquals,StringGreaterThanEqualsPath
 - StringLessThan,StringLessThanPath
 - StringLessThanEquals,StringLessThanEqualsPath
-- StringMatches
 - TimestampEquals,TimestampEqualsPath
 - TimestampGreaterThan,TimestampGreaterThanPath
 - TimestampGreaterThanEquals,TimestampGreaterThanEqualsPath
