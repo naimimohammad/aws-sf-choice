@@ -1,8 +1,9 @@
 {
   "name": "aws-sf-choice",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "parse aws step function choice",
   "main": "lib/index.js",
+  "types":"lib/index.d.ts",
   "scripts": {
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
